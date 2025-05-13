@@ -127,9 +127,13 @@ Ensure your `config.php` is updated with InfinityFree's credentials when deploye
 
 ## Authors
 **Sarah Alkhayyal**  
+
 **Reema Alshwirekh** 
+
 **Renad Aldayel** 
+
 **Bushra Alkhudhyr** 
+
 InfinityFree user: `if0_38940288`  
 Live site: [https://sarah.great-site.net](https://sarah.great-site.net)
 
